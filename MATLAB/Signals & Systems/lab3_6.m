@@ -1,0 +1,10 @@
+n=-10:10;
+y=exp(1i*pi*n/3);
+figure(1)
+stem(n,real(n))
+xlabel('time')
+ylabel('Y(t)')
+figure(2)
+stem(n,imag(n))
+xlabel('time')
+ylabel('Y(t)')
