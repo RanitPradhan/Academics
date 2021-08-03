@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T14:11:09.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" version="14.9.2" etag="FbMZrsMBcgqYiAmvcXpV" type="github"><diagram id="CN6o3yj289pofTsng-Fg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-03T14:48:40.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="ztVb34FpVLHOT5fItGiI" version="14.9.2" type="github">
+  <diagram id="CN6o3yj289pofTsng-Fg" name="Page-1">
+    <mxGraphModel dx="1452" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktrCqjmqsHV1yRDzRmhJ-1" target="ktrCqjmqsHV1yRDzRmhJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktrCqjmqsHV1yRDzRmhJ-2" target="ktrCqjmqsHV1yRDzRmhJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ktrCqjmqsHV1yRDzRmhJ-3" target="ktrCqjmqsHV1yRDzRmhJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-3" value="SET PB4&lt;br&gt;&amp;nbsp;and&lt;br&gt;&amp;nbsp;RESET PB5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktrCqjmqsHV1yRDzRmhJ-4" target="ktrCqjmqsHV1yRDzRmhJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="530" />
+              <mxPoint x="270" y="530" />
+              <mxPoint x="270" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-4" value="Toggle PB4 and&lt;br&gt;&amp;nbsp;PB5 with a delay&lt;br&gt;&amp;nbsp;of 1400 ms" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-9" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-10" value="Initialize PB4 and PB5 as output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="220" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ktrCqjmqsHV1yRDzRmhJ-11" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
