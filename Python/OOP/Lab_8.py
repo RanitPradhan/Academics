@@ -18,8 +18,8 @@ class school2:
         self.failed=failed
         self.school_rank=school_rank
 
-S1=school1(540,99,64,22,5)
-S2=school2(500,95,120,12,3)
+S1=school1(600,100,69,22,5)
+S2=school2(500,95,69,12,3)
 print("{..... Comparing Number Of Students Of Two Schools....}")
 
 if S1.students>=S2.students:
