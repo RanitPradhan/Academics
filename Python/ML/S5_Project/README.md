@@ -1,3 +1,3 @@
-# Mask Detection
+# WATER QUALITY PREDICTION
 ## Machine Learning 
 ### Python
