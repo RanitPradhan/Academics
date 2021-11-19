@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T06:54:29.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="jcAmdFLgBJMMeDXDRHS9" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T07:03:17.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Ltm4RDhoGpBLDBrizk0b" version="15.7.4" type="github">
   <diagram id="XaqS6j3h9ruBddJjvQaZ" name="Page-1">
-    <mxGraphModel dx="1209" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,13 +18,13 @@
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-8" value="DATA PRE-PROCESSING&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-8" value="Prepare The Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8Vzu7fz-UI4Gi_azkM2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8Vzu7fz-UI4Gi_azkM2-9" target="P8Vzu7fz-UI4Gi_azkM2-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-9" value="&lt;span&gt;DATA PRE-PROCESSING&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-9" value="&lt;span&gt;Data Pre-Processing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8Vzu7fz-UI4Gi_azkM2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P8Vzu7fz-UI4Gi_azkM2-10">
@@ -32,13 +32,13 @@
             <mxPoint x="400" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-10" value="DATA EXPLORATION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-10" value="Data Exploration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-30" value="DATA VISUALIZATION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-30" value="Data Visualization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-31" value="LOGISTIC REGRESSION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P8Vzu7fz-UI4Gi_azkM2-31" value="Logistic Regression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P8Vzu7fz-UI4Gi_azkM2-32" value="K-NN&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
