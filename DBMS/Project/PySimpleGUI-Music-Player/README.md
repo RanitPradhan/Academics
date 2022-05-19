@@ -1,4 +1,5 @@
-# PySimpleGUI Music Player
+# Audio Management System
+
 A music player made 100% in python and PySimpleGUI
 
 ![Music Player](https://i.ibb.co/v38GPKX/Screenshot-5.png)
