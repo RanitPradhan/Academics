@@ -7,3 +7,7 @@ A music player made 100% in python and PySimpleGUI
 
 1. Download the project and install the following dependencies from requirements.txt(`pip install -r requirements.txt`)
 2. Run the program (`python app.py`) and choose the folder where your songs are
+
+# Project by-
+- Ranit Pradhan
+- Karan Lohan
