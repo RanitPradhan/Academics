@@ -2,6 +2,7 @@ def findZigZagSequence(a, n):
     a.sort()
     mid = int(n/2) #changed
     a[mid], a[n-1] = a[n-1], a[mid]
+
     st = mid + 1
     ed = n - 2 #changed
     while(st <= ed):
